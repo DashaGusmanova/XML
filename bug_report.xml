@@ -1,1 +1,4 @@
-
+ <title>название</title>
+ <severity>критичность</severity>
+  <priority>приоритет</priority>
+  <component>компонент</component>
